@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "如何参与本项目？"
+    },
+    {
+      "description": "性能，结构和数据分析工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "innodb-ruby",
+          "description": "一个对 InooDB 格式文件的解析器，用于 Ruby 语言。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-28T13:04:05Z",
+            "owner": "jeremycole",
+            "repo": "innodb_ruby",
+            "stars": 1801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anemometer",
+          "description": "一个 SQL 慢查询监控器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-08T23:39:55Z",
+            "owner": "box",
+            "repo": "Anemometer",
+            "stars": 1391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "innotop",
+          "description": "一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-05-22T01:00:02Z",
+            "owner": "innotop",
+            "repo": "innotop",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pstop",
+          "description": "一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T19:13:51Z",
+            "owner": "sjmudd",
+            "repo": "ps-top",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mysql-statsd",
+          "description": "一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-20T17:10:47Z",
+            "owner": "db-art",
+            "repo": "mysql-statsd",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "分析工具"
+    },
+    {
+      "description": "给你的服务器进行压测的工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sysbench",
+          "description": "一个模块化，跨平台以及多线程的性能测试工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-09T16:27:25Z",
+            "owner": "akopytov",
+            "repo": "sysbench",
+            "stars": 6771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iibench-mysql",
+          "description": "基于 Java 的 MySQL/Percona/MariaDB 索引进行插入性能测试工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-12-04T06:57:33Z",
+            "owner": "tmcallaghan",
+            "repo": "iibench-mysql",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "性能测试"
+    },
+    {
+      "description": "MySQL 代理",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MaxScale",
+          "description": "开源，以数据库为中心的代理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-08T14:08:24Z",
+            "owner": "mariadb-corporation",
+            "repo": "MaxScale",
+            "stars": 1495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixer",
+          "description": "Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-01-21T16:06:18Z",
+            "owner": "siddontang",
+            "repo": "mixer",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxySQL",
+          "description": "高性能的 MySQL 代理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-23T19:11:56Z",
+            "owner": "renecannao",
+            "repo": "proxysql",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "代理"
+    },
+    {
+      "description": "MySQL server flavors",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MySQL Server & MySQL Cluster",
+          "description": "Oracle 官方的 MySQL server 和 MySQL 集群分布。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T15:43:43Z",
+            "owner": "mysql",
+            "repo": "mysql-server",
+            "stars": 12380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MariaDB",
+          "description": "MySQL server 的一个由社区开发的分支。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:20:04Z",
+            "owner": "MariaDB",
+            "repo": "server",
+            "stars": 8090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebScaleSQL",
+          "description": "WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-06-02T18:38:39Z",
+            "owner": "facebookarchive",
+            "repo": "webscalesql-5.6",
+            "stars": 2911
+          }
+        }
+      ],
+      "title": "服务器"
+    },
+    {
+      "description": "分片解决方案/框架",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vitess",
+          "description": "对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:24:36Z",
+            "owner": "vitessio",
+            "repo": "vitess",
+            "stars": 21219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jetpants",
+          "description": "一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-15T19:52:13Z",
+            "owner": "tumblr",
+            "repo": "jetpants",
+            "stars": 1125
+          }
+        }
+      ],
+      "title": "分片"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:48:05.676Z",
+    "original_repository": "jobbole/awesome-mysql-cn",
+    "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
+    "enhanced_repository": "enhansome/enhansome-mysql-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome MySQL 资源大全中文版 with stars"
+  }
+}
