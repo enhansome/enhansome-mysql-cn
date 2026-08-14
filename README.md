@@ -117,7 +117,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *多种编程语言的 MySQL 连接器*
 
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - 一个对于 Python 平台和开发的标准化数据库驱动程序。
-* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,277 | 🐛 72 | 🌐 Go | 📅 2026-08-07 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
+* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,276 | 🐛 72 | 🌐 Go | 📅 2026-08-14 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
 * [libAttachSQL](http://libattachsql.org/) - libAttachSQL 是 MySQL 服务器的一个轻量级，非阻塞的 C 语言 API。
 * [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
 * [MySQL-Python](https://sourceforge.net/projects/mysql-python/) - 一个 Python 语言的 MySQL 数据库连接器。
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,380 | 🐛 32 | 🌐 C++ | 📅 2026-07-31 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,090 | 🐛 455 | 🌐 C++ | 📅 2026-08-13 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,380 | 🐛 35 | 🌐 C++ | 📅 2026-07-31 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,094 | 🐛 453 | 🌐 C++ | 📅 2026-08-14 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,14 +187,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,219 | 🐛 1,069 | 🌐 Go | 📅 2026-08-12 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,220 | 🐛 1,073 | 🌐 Go | 📅 2026-08-14 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,125 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
 
 *工具包，通用脚本*
 
-* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,965 | 🐛 156 | 🌐 Go | 📅 2026-08-07 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
+* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,963 | 🐛 155 | 🌐 Go | 📅 2026-08-14 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
 * [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一个命令行实用程序的集合，Python 语言编写，用于维护和管理单一或多层的 MySQL。
 * [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 * [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
@@ -217,7 +217,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL 电子书以及相关材料。*
 
-* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,525 | 🐛 8 | 📅 2023-11-11 - 包含几个 SQL 练习，包括模式描述，用 SQL 语句去建立模式，SQL 的问题及解决方案。以 wikibook SQL 练习为基础。
+* [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) ⭐ 1,526 | 🐛 8 | 📅 2023-11-11 - 包含几个 SQL 练习，包括模式描述，用 SQL 语句去建立模式，SQL 的问题及解决方案。以 wikibook SQL 练习为基础。
 * [sqlfiddle](http://sqlfiddle.com/) - 在线执行 sql 测试。
 
 ## 媒体
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
