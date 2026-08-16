@@ -95,7 +95,7 @@
             "last_commit": "2025-03-09T16:27:25Z",
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6771
+            "stars": 6772
           }
         },
         {
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T01:28:23Z",
+            "last_commit": "2026-08-15T19:17:45Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8103
+            "stars": 8102
           }
         },
         {
@@ -222,7 +222,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T00:21:35Z",
+            "last_commit": "2026-08-15T23:20:54Z",
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21222
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:48:27.300Z",
+    "last_updated": "2026-08-16T07:50:33.918Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
     "enhanced_repository": "enhansome/enhansome-mysql-cn",
