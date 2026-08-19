@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "如何参与本项目？"
-    },
-    {
       "description": "性能，结构和数据分析工具",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6633847,
             "language": "Ruby",
             "last_commit": "2026-04-28T13:04:05Z",
             "owner": "jeremycole",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3812233,
             "language": "JavaScript",
             "last_commit": "2021-12-08T23:39:55Z",
             "owner": "box",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25345759,
             "language": "Perl",
             "last_commit": "2026-05-22T01:00:02Z",
             "owner": "innotop",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26496513,
             "language": "Go",
             "last_commit": "2026-07-10T19:13:51Z",
             "owner": "sjmudd",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12481335,
             "language": "Python",
             "last_commit": "2021-04-20T17:10:47Z",
             "owner": "db-art",
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31806094,
             "language": "C",
             "last_commit": "2025-03-09T16:27:25Z",
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26977819,
             "language": "Java",
             "last_commit": "2017-12-04T06:57:33Z",
             "owner": "tmcallaghan",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15231881,
             "language": "C++",
             "last_commit": "2026-01-08T14:08:24Z",
             "owner": "mariadb-corporation",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15577868,
             "language": "Go",
             "last_commit": "2019-01-21T16:06:18Z",
             "owner": "siddontang",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33404930,
             "language": "C++",
             "last_commit": "2025-11-23T19:11:56Z",
             "owner": "renecannao",
@@ -173,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24494032,
             "language": "C++",
             "last_commit": "2026-07-31T15:43:43Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12382
+            "stars": 12383
           }
         },
         {
@@ -187,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-18T07:34:18Z",
+            "last_commit": "2026-08-19T07:17:13Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8108
+            "stars": 8110
           }
         },
         {
@@ -201,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13887383,
             "language": "C++",
             "last_commit": "2016-06-02T18:38:39Z",
             "owner": "facebookarchive",
@@ -221,11 +229,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-17T22:01:10Z",
+            "last_commit": "2026-08-19T04:02:36Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21223
+            "stars": 21227
           }
         },
         {
@@ -235,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4432054,
             "language": "Ruby",
             "last_commit": "2017-06-15T19:52:13Z",
             "owner": "tumblr",
@@ -247,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:58:48.390Z",
+    "last_updated": "2026-08-19T07:58:38.144Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
     "enhanced_repository": "enhansome/enhansome-mysql-cn",
