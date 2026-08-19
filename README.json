@@ -195,10 +195,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-19T07:17:13Z",
+            "last_commit": "2026-08-19T12:38:59Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8110
+            "stars": 8111
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2016-06-02T18:38:39Z",
             "owner": "facebookarchive",
             "repo": "webscalesql-5.6",
-            "stars": 2910
+            "stars": 2911
           }
         }
       ],
@@ -231,7 +231,7 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-19T04:02:36Z",
+            "last_commit": "2026-08-19T10:49:07Z",
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21227
@@ -257,8 +257,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:58:38.144Z",
+    "last_updated": "2026-08-19T12:46:53.403Z",
     "original_repository": "jobbole/awesome-mysql-cn",
+    "original_repository_id": 45461596,
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
     "enhanced_repository": "enhansome/enhansome-mysql-cn",
     "enhanced_repository_description": null,
