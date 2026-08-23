@@ -96,7 +96,7 @@
             "last_commit": "2025-03-09T16:27:25Z",
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6779
+            "stars": 6780
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-01-08T14:08:24Z",
             "owner": "mariadb-corporation",
             "repo": "MaxScale",
-            "stars": 1495
+            "stars": 1496
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-22T07:06:00Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12389
+            "stars": 12390
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-22T06:28:25Z",
+            "last_commit": "2026-08-22T18:08:59Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8122
+            "stars": 8125
           }
         },
         {
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-22T00:21:15Z",
+            "last_commit": "2026-08-23T00:23:19Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21237
+            "stars": 21238
           }
         },
         {
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:50:34.550Z",
+    "last_updated": "2026-08-23T07:52:39.366Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_id": 45461596,
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
