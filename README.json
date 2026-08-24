@@ -118,6 +118,132 @@
       "title": "性能测试"
     },
     {
+      "description": "集成进聊天室的脚本",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hubot MySQL ChatOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16320914,
+            "language": "CoffeeScript",
+            "last_commit": "2014-03-09T17:56:39Z",
+            "owner": "samlambert",
+            "repo": "hubot-mysql-chatops",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "聊天应用"
+    },
+    {
+      "description": "MySQL 配置实例及指导",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mysql-compatibility-config",
+          "description": "使 MySQL 配置起来更像新的（或先前）的 MySQL 版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29299554,
+            "language": "Shell",
+            "last_commit": "2017-03-02T01:33:41Z",
+            "owner": "morgo",
+            "repo": "mysql-compatibility-config",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "配置"
+    },
+    {
+      "description": "多种编程语言的 MySQL 连接器",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-sql-driver",
+          "description": "一个 Go 语言的轻量级、极速的 MySQL 驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7083242,
+            "language": "Go",
+            "last_commit": "2026-08-20T21:34:52Z",
+            "owner": "go-sql-driver",
+            "repo": "mysql",
+            "stars": 15272
+          }
+        }
+      ],
+      "title": "连接器"
+    },
+    {
+      "description": "支持 MySQL 相关开发的工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Propagator",
+          "description": "集中模式和数据部署在一个多维拓扑上。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15389291,
+            "language": "PHP",
+            "last_commit": "2014-10-26T14:15:31Z",
+            "owner": "outbrain-inc",
+            "repo": "propagator",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "开发"
+    },
+    {
+      "description": "前端和应用的 GUI",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SequelPro",
+          "description": "一个 mac 下运行 MySQL 的数据库管理应用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14224695,
+            "language": "Objective-C",
+            "last_commit": "2023-02-25T08:11:30Z",
+            "owner": "sequelpro",
+            "repo": "sequelpro",
+            "stars": 9195
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "高可用解决方案",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Percona Replication Manager",
+          "description": "针对 MySQL 的异步复制管理代理。支持以文件和 GTID 为基础的复制，使用 booth 实现的地理分布式集群。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9178844,
+            "language": "Shell",
+            "last_commit": "2018-11-28T02:45:26Z",
+            "owner": "Percona-Lab",
+            "repo": "pacemaker-replication-agents",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "HA"
+    },
+    {
       "description": "MySQL 代理",
       "items": [
         {
@@ -169,6 +295,27 @@
       "title": "代理"
     },
     {
+      "description": "附加模式",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sys",
+          "description": "一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 16895332,
+            "language": "PLpgSQL",
+            "last_commit": "2022-08-26T13:17:39Z",
+            "owner": "mysql",
+            "repo": "mysql-sys",
+            "stars": 827
+          }
+        }
+      ],
+      "title": "模式"
+    },
+    {
       "description": "MySQL server flavors",
       "items": [
         {
@@ -183,7 +330,7 @@
             "last_commit": "2026-08-22T07:06:00Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12397
+            "stars": 12398
           }
         },
         {
@@ -195,10 +342,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-24T08:02:37Z",
+            "last_commit": "2026-08-24T13:59:42Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8130
+            "stars": 8133
           }
         },
         {
@@ -231,10 +378,10 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-24T03:32:08Z",
+            "last_commit": "2026-08-24T13:53:25Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21242
+            "stars": 21243
           }
         },
         {
@@ -254,10 +401,59 @@
         }
       ],
       "title": "分片"
+    },
+    {
+      "description": "工具包，通用脚本",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-mysql",
+          "description": "一个纯 go 的库，用于处理 MySQL 的网络协议和复制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17042400,
+            "language": "Go",
+            "last_commit": "2026-08-23T04:16:38Z",
+            "owner": "go-mysql-org",
+            "repo": "go-mysql",
+            "stars": 4962
+          }
+        }
+      ],
+      "title": "工具包"
+    },
+    {
+      "description": "在这个阶段，“资源”不包括网站，博客，幻灯片，演示视频等。这些资源列表的大小令人恐惧。",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQL-exercise",
+              "description": "包含几个 SQL 练习，包括模式描述，用 SQL 语句去建立模式，SQL 的问题及解决方案。以 wikibook SQL 练习为基础。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46900105,
+                "language": null,
+                "last_commit": "2023-11-11T21:46:31Z",
+                "owner": "XD-DENG",
+                "repo": "SQL-exercise",
+                "stars": 1531
+              }
+            }
+          ],
+          "description": "MySQL 电子书以及相关材料。",
+          "node_type": "group",
+          "title": "电子书"
+        }
+      ],
+      "title": "资源"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:08:59.251Z",
+    "last_updated": "2026-08-24T14:01:07.296Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_id": 45461596,
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
