@@ -79,10 +79,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 性能，结构和数据分析工具
 
 * [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,801 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
-* [Anemometer](https://github.com/box/Anemometer) ⭐ 1,391 | 🐛 60 | 🌐 JavaScript | 📅 2021-12-08 - 一个 SQL 慢查询监控器。
+* [Anemometer](https://github.com/box/Anemometer) ⭐ 1,392 | 🐛 60 | 🌐 JavaScript | 📅 2021-12-08 - 一个 SQL 慢查询监控器。
 * [innotop](https://github.com/innotop/innotop) ⭐ 803 | 🐛 27 | 🌐 Perl | 📅 2026-05-22 - 一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。
 * [pstop](https://github.com/sjmudd/ps-top) ⭐ 211 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance\_schema 的信息。
-* [mysql-statsd](https://github.com/db-art/mysql-statsd) ⭐ 101 | 🐛 6 | 🌐 Python | 📅 2021-04-20 - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。
+* [mysql-statsd](https://github.com/db-art/mysql-statsd) ⭐ 102 | 🐛 6 | 🌐 Python | 📅 2021-04-20 - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。
 
 ## 备份
 
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,399 | 🐛 41 | 🌐 C++ | 📅 2026-08-22 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,135 | 🐛 465 | 🌐 C++ | 📅 2026-08-25 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,399 | 🐛 42 | 🌐 C++ | 📅 2026-08-22 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,136 | 🐛 466 | 🌐 C++ | 📅 2026-08-25 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 

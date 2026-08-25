@@ -30,7 +30,7 @@
             "last_commit": "2021-12-08T23:39:55Z",
             "owner": "box",
             "repo": "Anemometer",
-            "stars": 1391
+            "stars": 1392
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2021-04-20T17:10:47Z",
             "owner": "db-art",
             "repo": "mysql-statsd",
-            "stars": 101
+            "stars": 102
           }
         }
       ],
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-25T05:11:28Z",
+            "last_commit": "2026-08-25T07:52:21Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8135
+            "stars": 8136
           }
         },
         {
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:49.235Z",
+    "last_updated": "2026-08-25T08:03:47.640Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_id": 45461596,
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
