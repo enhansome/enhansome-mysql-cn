@@ -96,7 +96,7 @@
             "last_commit": "2025-03-09T16:27:25Z",
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6780
+            "stars": 6781
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-20T21:34:52Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15272
+            "stars": 15273
           }
         }
       ],
@@ -216,7 +216,7 @@
             "last_commit": "2023-02-25T08:11:30Z",
             "owner": "sequelpro",
             "repo": "sequelpro",
-            "stars": 9195
+            "stars": 9196
           }
         }
       ],
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 24494032,
             "language": "C++",
-            "last_commit": "2026-08-22T07:06:00Z",
+            "last_commit": "2026-08-25T22:54:46Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12399
+            "stars": 12406
           }
         },
         {
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-25T07:52:21Z",
+            "last_commit": "2026-08-26T08:00:23Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8136
+            "stars": 8137
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-25T01:56:53Z",
+            "last_commit": "2026-08-26T06:22:41Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21244
+            "stars": 21246
           }
         },
         {
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:03:47.640Z",
+    "last_updated": "2026-08-26T08:04:56.872Z",
     "original_repository": "jobbole/awesome-mysql-cn",
     "original_repository_id": 45461596,
     "original_repository_sha": "327644a1d484a7421eb36133be740250961bb01c",
