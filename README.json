@@ -171,7 +171,7 @@
             "archived": false,
             "id": 7083242,
             "language": "Go",
-            "last_commit": "2026-08-20T21:34:52Z",
+            "last_commit": "2026-08-27T16:17:38Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15273
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 24494032,
             "language": "C++",
-            "last_commit": "2026-08-25T22:54:46Z",
+            "last_commit": "2026-08-27T13:03:09Z",
             "owner": "mysql",
             "repo": "mysql-server",
             "stars": 12407
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-27T11:04:26Z",
+            "last_commit": "2026-08-27T17:57:36Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8148
+            "stars": 8149
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-27T00:44:33Z",
+            "last_commit": "2026-08-27T17:10:53Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21262
+            "stars": 21265
           }
         },
         {
@@ -453,7 +453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:59.510Z",
+    "last_updated": "2026-08-27T18:20:15.074Z",
     "original_repository_info": {
       "archived": false,
       "id": 45461596,
