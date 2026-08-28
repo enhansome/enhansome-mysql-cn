@@ -15,8 +15,9 @@
             "last_commit": "2026-04-28T13:04:05Z",
             "owner": "jeremycole",
             "repo": "innodb_ruby",
-            "stars": 1801
-          }
+            "stars": 1800
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "box",
             "repo": "Anemometer",
             "stars": 1392
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "innotop",
             "repo": "innotop",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "sjmudd",
             "repo": "ps-top",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "db-art",
             "repo": "mysql-statsd",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "分析工具"
@@ -97,7 +102,8 @@
             "owner": "akopytov",
             "repo": "sysbench",
             "stars": 6782
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "tmcallaghan",
             "repo": "iibench-mysql",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "性能测试"
@@ -133,7 +140,8 @@
             "owner": "samlambert",
             "repo": "hubot-mysql-chatops",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "聊天应用"
@@ -154,7 +162,8 @@
             "owner": "morgo",
             "repo": "mysql-compatibility-config",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "配置"
@@ -174,8 +183,9 @@
             "last_commit": "2026-08-27T16:17:38Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15273
-          }
+            "stars": 15272
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "连接器"
@@ -196,7 +206,8 @@
             "owner": "outbrain-inc",
             "repo": "propagator",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "开发"
@@ -217,7 +228,8 @@
             "owner": "sequelpro",
             "repo": "sequelpro",
             "stars": 9196
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "GUI"
@@ -238,7 +250,8 @@
             "owner": "Percona-Lab",
             "repo": "pacemaker-replication-agents",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "HA"
@@ -259,7 +272,8 @@
             "owner": "mariadb-corporation",
             "repo": "MaxScale",
             "stars": 1496
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -274,7 +288,8 @@
             "owner": "siddontang",
             "repo": "mixer",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -289,7 +304,8 @@
             "owner": "renecannao",
             "repo": "proxysql",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "代理"
@@ -310,7 +326,8 @@
             "owner": "mysql",
             "repo": "mysql-sys",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "模式"
@@ -330,8 +347,9 @@
             "last_commit": "2026-08-27T13:03:09Z",
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12407
-          }
+            "stars": 12406
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -342,11 +360,12 @@
             "archived": false,
             "id": 19816070,
             "language": "C++",
-            "last_commit": "2026-08-27T17:57:36Z",
+            "last_commit": "2026-08-28T15:58:35Z",
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8149
-          }
+            "stars": 8151
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -361,7 +380,8 @@
             "owner": "facebookarchive",
             "repo": "webscalesql-5.6",
             "stars": 2911
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "服务器"
@@ -378,11 +398,12 @@
             "archived": false,
             "id": 11008207,
             "language": "Go",
-            "last_commit": "2026-08-27T17:10:53Z",
+            "last_commit": "2026-08-28T19:06:29Z",
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21265
-          }
+            "stars": 21271
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         },
         {
           "node_type": "item",
@@ -397,7 +418,8 @@
             "owner": "tumblr",
             "repo": "jetpants",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "分片"
@@ -418,7 +440,8 @@
             "owner": "go-mysql-org",
             "repo": "go-mysql",
             "stars": 4962
-          }
+          },
+          "first_seen": "2026-08-28T19:29:27.477Z"
         }
       ],
       "title": "工具包"
@@ -440,8 +463,9 @@
                 "last_commit": "2023-11-11T21:46:31Z",
                 "owner": "XD-DENG",
                 "repo": "SQL-exercise",
-                "stars": 1531
-              }
+                "stars": 1530
+              },
+              "first_seen": "2026-08-28T19:29:27.477Z"
             }
           ],
           "description": "MySQL 电子书以及相关材料。",
@@ -453,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:20:15.074Z",
+    "last_updated": "2026-08-28T19:29:27.477Z",
     "original_repository_info": {
       "archived": false,
       "id": 45461596,
