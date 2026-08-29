@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,406 | 🐛 42 | 🌐 C++ | 📅 2026-08-27 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,151 | 🐛 475 | 🌐 C++ | 📅 2026-08-28 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,406 | 🐛 43 | 🌐 C++ | 📅 2026-08-27 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,152 | 🐛 475 | 🌐 C++ | 📅 2026-08-28 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,7 +187,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,271 | 🐛 1,093 | 🌐 Go | 📅 2026-08-28 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,271 | 🐛 1,092 | 🌐 Go | 📅 2026-08-29 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,125 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
