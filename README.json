@@ -247,7 +247,7 @@
             "open_issues": 73,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15272,
+            "stars": 15271,
             "topics": [
               "database",
               "go",
@@ -480,8 +480,8 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-28T19:51:45Z",
-            "open_issues": 475,
+            "last_commit": "2026-08-29T06:10:04Z",
+            "open_issues": 476,
             "owner": "MariaDB",
             "repo": "server",
             "stars": 8152,
@@ -545,10 +545,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:15:04Z",
-            "open_issues": 1092,
+            "open_issues": 1093,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21271,
+            "stars": 21274,
             "topics": [
               "cncf",
               "database-cluster",
@@ -603,7 +603,7 @@
             "open_issues": 157,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
-            "stars": 4962,
+            "stars": 4963,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:37.929Z",
+    "last_updated": "2026-08-29T13:13:09.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
