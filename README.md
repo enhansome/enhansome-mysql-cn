@@ -116,7 +116,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *多种编程语言的 MySQL 连接器*
 
-* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,271 | 🐛 73 | 🌐 Go | 📅 2026-08-27 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
+* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,272 | 🐛 73 | 🌐 Go | 📅 2026-08-27 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - 一个对于 Python 平台和开发的标准化数据库驱动程序。
 * [libAttachSQL](http://libattachsql.org/) - libAttachSQL 是 MySQL 服务器的一个轻量级，非阻塞的 C 语言 API。
 * [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
@@ -135,7 +135,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *前端和应用的 GUI*
 
-* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,196 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
+* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,197 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
 * [Adminer](https://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
 * [HeidiSQL](http://www.heidisql.com/) - Windows 下的 MySQL 图形化管理工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
@@ -179,7 +179,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *MySQL server flavors*
 
 * [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,406 | 🐛 43 | 🌐 C++ | 📅 2026-08-27 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,152 | 🐛 476 | 🌐 C++ | 📅 2026-08-29 - MySQL server 的一个由社区开发的分支。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,156 | 🐛 476 | 🌐 C++ | 📅 2026-08-29 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,7 +187,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,274 | 🐛 1,093 | 🌐 Go | 📅 2026-08-29 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,279 | 🐛 1,091 | 🌐 Go | 📅 2026-08-29 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,125 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
