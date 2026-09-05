@@ -244,7 +244,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-04T05:54:17Z",
-            "open_issues": 62,
+            "open_issues": 60,
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15277,
@@ -308,7 +308,7 @@
             "open_issues": 530,
             "owner": "sequelpro",
             "repo": "sequelpro",
-            "stars": 9198,
+            "stars": 9197,
             "topics": [
               "macos",
               "mysql",
@@ -463,7 +463,7 @@
             "open_issues": 43,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12417,
+            "stars": 12418,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-04T12:04:00Z",
-            "open_issues": 476,
+            "last_commit": "2026-09-05T11:07:40Z",
+            "open_issues": 479,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8177,
+            "stars": 8182,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,11 +544,11 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T12:09:41Z",
-            "open_issues": 1104,
+            "last_commit": "2026-09-05T11:09:18Z",
+            "open_issues": 1100,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21293,
+            "stars": 21295,
             "topics": [
               "cncf",
               "database-cluster",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:10:54.390Z",
+    "last_updated": "2026-09-05T11:18:42.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
