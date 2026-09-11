@@ -247,7 +247,7 @@
             "open_issues": 58,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15282,
+            "stars": 15283,
             "topics": [
               "database",
               "go",
@@ -460,10 +460,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T11:53:04Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12421,
+            "stars": 12423,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T11:40:27Z",
-            "open_issues": 488,
+            "last_commit": "2026-09-11T12:14:05Z",
+            "open_issues": 487,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8196,
+            "stars": 8203,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,11 +544,11 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T11:53:56Z",
+            "last_commit": "2026-09-11T11:31:33Z",
             "open_issues": 1104,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21304,
+            "stars": 21315,
             "topics": [
               "cncf",
               "database-cluster",
@@ -600,10 +600,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-08T13:50:57Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
-            "stars": 4965,
+            "stars": 4966,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -632,7 +632,7 @@
                 "open_issues": 8,
                 "owner": "XD-DENG",
                 "repo": "SQL-exercise",
-                "stars": 1532,
+                "stars": 1533,
                 "topics": [
                   "sql"
                 ]
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:17:06.348Z",
+    "last_updated": "2026-09-11T12:15:35.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
