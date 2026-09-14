@@ -78,7 +78,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 性能，结构和数据分析工具
 
-* [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,800 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
+* [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,799 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
 * [Anemometer](https://github.com/box/Anemometer) ⭐ 1,392 | 🐛 60 | 🌐 JavaScript | 📅 2021-12-08 - 一个 SQL 慢查询监控器。
 * [innotop](https://github.com/innotop/innotop) ⭐ 802 | 🐛 27 | 🌐 Perl | 📅 2026-05-22 - 一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。
 * [pstop](https://github.com/sjmudd/ps-top) ⭐ 211 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance\_schema 的信息。
@@ -135,7 +135,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *前端和应用的 GUI*
 
-* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,198 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
+* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,199 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
 * [Adminer](https://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
 * [HeidiSQL](http://www.heidisql.com/) - Windows 下的 MySQL 图形化管理工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,423 | 🐛 53 | 🌐 C++ | 📅 2026-09-11 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,212 | 🐛 490 | 🌐 C++ | 📅 2026-09-12 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,425 | 🐛 54 | 🌐 C++ | 📅 2026-09-11 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,220 | 🐛 495 | 🌐 C++ | 📅 2026-09-14 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,7 +187,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,326 | 🐛 1,100 | 🌐 Go | 📅 2026-09-13 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,331 | 🐛 1,100 | 🌐 Go | 📅 2026-09-14 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,126 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
