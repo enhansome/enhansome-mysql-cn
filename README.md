@@ -78,7 +78,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 性能，结构和数据分析工具
 
-* [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,799 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
+* [innodb-ruby](https://github.com/jeremycole/innodb_ruby) ⭐ 1,798 | 🐛 21 | 🌐 Ruby | 📅 2026-04-28 - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
 * [Anemometer](https://github.com/box/Anemometer) ⭐ 1,392 | 🐛 60 | 🌐 JavaScript | 📅 2021-12-08 - 一个 SQL 慢查询监控器。
 * [innotop](https://github.com/innotop/innotop) ⭐ 802 | 🐛 27 | 🌐 Perl | 📅 2026-05-22 - 一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。
 * [pstop](https://github.com/sjmudd/ps-top) ⭐ 211 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance\_schema 的信息。
@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *给你的服务器进行压测的工具*
 
-* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,797 | 🐛 217 | 🌐 C | 📅 2025-03-09 - 一个模块化，跨平台以及多线程的性能测试工具。
+* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,798 | 🐛 217 | 🌐 C | 📅 2025-03-09 - 一个模块化，跨平台以及多线程的性能测试工具。
 * [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) ⭐ 47 | 🐛 3 | 🌐 Java | 📅 2017-12-04 -基于 Java 的 MySQL/Percona/MariaDB 索引进行插入性能测试工具。
 
 ## 聊天应用
@@ -135,7 +135,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *前端和应用的 GUI*
 
-* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,198 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
+* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,196 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
 * [Adminer](https://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
 * [HeidiSQL](http://www.heidisql.com/) - Windows 下的 MySQL 图形化管理工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
@@ -155,7 +155,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL 代理*
 
-* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,496 | 🐛 20 | 🌐 C++ | 📅 2026-01-08 - 开源，以数据库为中心的代理。
+* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,497 | 🐛 20 | 🌐 C++ | 📅 2026-01-08 - 开源，以数据库为中心的代理。
 * [Mixer](https://github.com/siddontang/mixer) ⭐ 768 | 🐛 12 | 🌐 Go | 📅 2019-01-21 - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
 * [ProxySQL](https://github.com/renecannao/proxysql) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2025-11-23 - 高性能的 MySQL 代理。
 * [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,433 | 🐛 60 | 🌐 C++ | 📅 2026-09-11 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,251 | 🐛 497 | 🌐 C++ | 📅 2026-09-20 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,433 | 🐛 69 | 🌐 C++ | 📅 2026-09-11 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,256 | 🐛 512 | 🌐 C++ | 📅 2026-09-21 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,14 +187,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,345 | 🐛 1,112 | 🌐 Go | 📅 2026-09-19 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,350 | 🐛 1,115 | 🌐 Go | 📅 2026-09-21 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,126 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
 
 *工具包，通用脚本*
 
-* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,968 | 🐛 156 | 🌐 Go | 📅 2026-09-08 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
+* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,969 | 🐛 156 | 🌐 Go | 📅 2026-09-08 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
 * [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一个命令行实用程序的集合，Python 语言编写，用于维护和管理单一或多层的 MySQL。
 * [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 * [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
