@@ -132,7 +132,7 @@
             "open_issues": 217,
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6798,
+            "stars": 6799,
             "topics": [
               "benchmark",
               "console",
@@ -244,10 +244,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-19T06:59:05Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15286,
+            "stars": 15285,
             "topics": [
               "database",
               "go",
@@ -460,10 +460,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-24T10:12:50Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12438,
+            "stars": 12434,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-25T12:45:47Z",
-            "open_issues": 526,
+            "last_commit": "2026-09-25T20:36:38Z",
+            "open_issues": 527,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8274,
+            "stars": 8278,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,8 +544,8 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T09:52:58Z",
-            "open_issues": 1128,
+            "last_commit": "2026-09-26T12:17:19Z",
+            "open_issues": 1137,
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21355,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:50:19.859Z",
+    "last_updated": "2026-09-26T12:18:02.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
