@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "jeremycole",
             "repo": "innodb_ruby",
-            "stars": 1798,
+            "stars": 1797,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -132,7 +132,7 @@
             "open_issues": 217,
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6799,
+            "stars": 6798,
             "topics": [
               "benchmark",
               "console",
@@ -247,7 +247,7 @@
             "open_issues": 60,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15285,
+            "stars": 15287,
             "topics": [
               "database",
               "go",
@@ -459,11 +459,11 @@
             "id": 24494032,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T10:12:50Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-28T10:36:21Z",
+            "open_issues": 83,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12434,
+            "stars": 12437,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-27T11:56:08Z",
-            "open_issues": 528,
+            "last_commit": "2026-09-28T15:14:49Z",
+            "open_issues": 539,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8286,
+            "stars": 8291,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,8 +544,8 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T08:52:14Z",
-            "open_issues": 1142,
+            "last_commit": "2026-09-28T15:36:51Z",
+            "open_issues": 1141,
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21358,
@@ -603,7 +603,7 @@
             "open_issues": 156,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
-            "stars": 4971,
+            "stars": 4972,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:08:37.587Z",
+    "last_updated": "2026-09-28T15:39:25.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
