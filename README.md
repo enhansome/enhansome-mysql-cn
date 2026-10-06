@@ -97,7 +97,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *给你的服务器进行压测的工具*
 
-* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,802 | 🐛 217 | 🌐 C | 📅 2025-03-09 - 一个模块化，跨平台以及多线程的性能测试工具。
+* [Sysbench](https://github.com/akopytov/sysbench) ⭐ 6,803 | 🐛 217 | 🌐 C | 📅 2025-03-09 - 一个模块化，跨平台以及多线程的性能测试工具。
 * [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) ⭐ 47 | 🐛 3 | 🌐 Java | 📅 2017-12-04 -基于 Java 的 MySQL/Percona/MariaDB 索引进行插入性能测试工具。
 
 ## 聊天应用
@@ -116,7 +116,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *多种编程语言的 MySQL 连接器*
 
-* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,277 | 🐛 61 | 🌐 Go | 📅 2026-10-04 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
+* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,278 | 🐛 59 | 🌐 Go | 📅 2026-10-06 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - 一个对于 Python 平台和开发的标准化数据库驱动程序。
 * [libAttachSQL](http://libattachsql.org/) - libAttachSQL 是 MySQL 服务器的一个轻量级，非阻塞的 C 语言 API。
 * [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
@@ -155,7 +155,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL 代理*
 
-* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,498 | 🐛 20 | 🌐 C++ | 📅 2026-01-08 - 开源，以数据库为中心的代理。
+* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,499 | 🐛 20 | 🌐 C++ | 📅 2026-01-08 - 开源，以数据库为中心的代理。
 * [Mixer](https://github.com/siddontang/mixer) ⭐ 770 | 🐛 12 | 🌐 Go | 📅 2019-01-21 - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
 * [ProxySQL](https://github.com/renecannao/proxysql) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2025-11-23 - 高性能的 MySQL 代理。
 * [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,440 | 🐛 89 | 🌐 C++ | 📅 2026-09-29 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,318 | 🐛 534 | 🌐 C++ | 📅 2026-10-05 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,440 | 🐛 96 | 🌐 C++ | 📅 2026-09-29 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,321 | 🐛 535 | 🌐 C++ | 📅 2026-10-06 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,7 +187,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,366 | 🐛 1,162 | 🌐 Go | 📅 2026-10-05 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,368 | 🐛 1,181 | 🌐 Go | 📅 2026-10-06 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,126 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
