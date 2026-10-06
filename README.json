@@ -132,7 +132,7 @@
             "open_issues": 217,
             "owner": "akopytov",
             "repo": "sysbench",
-            "stars": 6803,
+            "stars": 6804,
             "topics": [
               "benchmark",
               "console",
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T11:00:41Z",
+            "last_commit": "2026-10-06T13:58:10Z",
             "open_issues": 535,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8321,
+            "stars": 8324,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,11 +544,11 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:46:22Z",
-            "open_issues": 1181,
+            "last_commit": "2026-10-06T14:04:07Z",
+            "open_issues": 1186,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21368,
+            "stars": 21370,
             "topics": [
               "cncf",
               "database-cluster",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:48.641Z",
+    "last_updated": "2026-10-06T14:17:30.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
