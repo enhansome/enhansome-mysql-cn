@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,451 | 🐛 107 | 🌐 C++ | 📅 2026-10-06 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,341 | 🐛 543 | 🌐 C++ | 📅 2026-10-10 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,454 | 🐛 119 | 🌐 C++ | 📅 2026-10-06 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,346 | 🐛 545 | 🌐 C++ | 📅 2026-10-11 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,14 +187,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,379 | 🐛 1,210 | 🌐 Go | 📅 2026-10-10 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,381 | 🐛 1,214 | 🌐 Go | 📅 2026-10-11 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
 * [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,126 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
 
 *工具包，通用脚本*
 
-* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,970 | 🐛 165 | 🌐 Go | 📅 2026-09-24 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
+* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,970 | 🐛 161 | 🌐 Go | 📅 2026-10-11 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
 * [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一个命令行实用程序的集合，Python 语言编写，用于维护和管理单一或多层的 MySQL。
 * [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 * [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

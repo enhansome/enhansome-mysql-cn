@@ -436,7 +436,7 @@
             "open_issues": 4,
             "owner": "mysql",
             "repo": "mysql-sys",
-            "stars": 827,
+            "stars": 826,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -460,10 +460,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T22:54:54Z",
-            "open_issues": 107,
+            "open_issues": 119,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12451,
+            "stars": 12454,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-10T13:24:24Z",
-            "open_issues": 543,
+            "last_commit": "2026-10-11T13:59:12Z",
+            "open_issues": 545,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8341,
+            "stars": 8346,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,11 +544,11 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T11:27:30Z",
-            "open_issues": 1210,
+            "last_commit": "2026-10-11T10:03:47Z",
+            "open_issues": 1214,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21379,
+            "stars": 21381,
             "topics": [
               "cncf",
               "database-cluster",
@@ -599,8 +599,8 @@
             "id": 17042400,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T07:26:21Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-11T14:04:47Z",
+            "open_issues": 161,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
             "stars": 4970,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:52:37.183Z",
+    "last_updated": "2026-10-11T14:12:34.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
