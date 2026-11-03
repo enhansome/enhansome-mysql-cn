@@ -116,7 +116,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *多种编程语言的 MySQL 连接器*
 
-* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,274 | 🐛 58 | 🌐 Go | 📅 2026-10-30 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
+* [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,275 | 🐛 58 | 🌐 Go | 📅 2026-10-30 - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - 一个对于 Python 平台和开发的标准化数据库驱动程序。
 * [libAttachSQL](http://libattachsql.org/) - libAttachSQL 是 MySQL 服务器的一个轻量级，非阻塞的 C 语言 API。
 * [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
@@ -135,7 +135,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *前端和应用的 GUI*
 
-* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,188 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
+* [SequelPro](https://github.com/sequelpro/sequelpro) ⭐ 9,189 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - 一个 mac 下运行 MySQL 的数据库管理应用程序。
 * [Adminer](https://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
 * [HeidiSQL](http://www.heidisql.com/) - Windows 下的 MySQL 图形化管理工具。
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
@@ -155,7 +155,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL 代理*
 
-* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,498 | 🐛 20 | 🌐 C++ | 📅 2026-10-23 - 开源，以数据库为中心的代理。
+* [MaxScale](https://github.com/mariadb-corporation/MaxScale) ⭐ 1,499 | 🐛 20 | 🌐 C++ | 📅 2026-10-23 - 开源，以数据库为中心的代理。
 * [Mixer](https://github.com/siddontang/mixer) ⭐ 768 | 🐛 12 | 🌐 Go | 📅 2019-01-21 - Go 实现的一个 MySQL 代理，目的为 MySQL 分片提供一个简单的解决方案。
 * [ProxySQL](https://github.com/renecannao/proxysql) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2025-11-23 - 高性能的 MySQL 代理。
 * [MySQL Proxy](https://launchpad.net/mysql-proxy) - 一个处于你的客户端和 MySQL 服务端之间的简单程序，它可以检测、分析或者改变它们的通信。
@@ -178,8 +178,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *MySQL server flavors*
 
-* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,492 | 🐛 129 | 🌐 C++ | 📅 2026-10-28 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,506 | 🐛 585 | 🌐 C++ | 📅 2026-11-02 - MySQL server 的一个由社区开发的分支。
+* [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) ⭐ 12,496 | 🐛 132 | 🌐 C++ | 📅 2026-10-28 - Oracle 官方的 MySQL server 和 MySQL 集群分布。
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,516 | 🐛 590 | 🌐 C++ | 📅 2026-11-03 - MySQL server 的一个由社区开发的分支。
 * [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) ⚠️ Archived - WebScaleSQL，5.6 版本，基于 MySQL 5.6 社区版本。
 * [Percona Server](https://launchpad.net/percona-server) - 一个加强版的 MySQL 替代品
 
@@ -187,14 +187,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *分片解决方案/框架*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,399 | 🐛 1,278 | 🌐 Go | 📅 2026-11-02 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
-* [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,128 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,399 | 🐛 1,278 | 🌐 Go | 📅 2026-11-03 - 对于大规模的 web 服务，vitess 提供服务和工具以便于 MySQL 数据库的缩放。
+* [jetpants](https://github.com/tumblr/jetpants) ⭐ 1,127 | 🐛 3 | 🌐 Ruby | 📅 2017-06-15 - 一个自动化套件，用于管理大规模分片集群，由 Tumblr 开发。
 
 ## 工具包
 
 *工具包，通用脚本*
 
-* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,971 | 🐛 162 | 🌐 Go | 📅 2026-11-02 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
+* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,972 | 🐛 162 | 🌐 Go | 📅 2026-11-03 - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
 * [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一个命令行实用程序的集合，Python 语言编写，用于维护和管理单一或多层的 MySQL。
 * [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 * [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
@@ -241,4 +241,4 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
