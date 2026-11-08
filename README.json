@@ -463,7 +463,7 @@
             "open_issues": 135,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12498,
+            "stars": 12499,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-07T12:57:43Z",
+            "last_commit": "2026-11-08T14:03:59Z",
             "open_issues": 596,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8545,
+            "stars": 8549,
             "topics": [
               "amazon-web-services",
               "database",
@@ -544,8 +544,8 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T12:16:26Z",
-            "open_issues": 1280,
+            "last_commit": "2026-11-08T13:59:20Z",
+            "open_issues": 1286,
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21408,
@@ -600,7 +600,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-07T12:19:02Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
             "stars": 4974,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:11:41.074Z",
+    "last_updated": "2026-11-08T14:23:13.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
