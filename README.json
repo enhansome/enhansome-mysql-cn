@@ -243,11 +243,11 @@
             "id": 7083242,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-18T10:02:26Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-20T15:27:12Z",
+            "open_issues": 57,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15293,
+            "stars": 15292,
             "topics": [
               "database",
               "go",
@@ -308,7 +308,7 @@
             "open_issues": 530,
             "owner": "sequelpro",
             "repo": "sequelpro",
-            "stars": 9188,
+            "stars": 9185,
             "topics": [
               "macos",
               "mysql",
@@ -367,7 +367,7 @@
             "open_issues": 20,
             "owner": "mariadb-corporation",
             "repo": "MaxScale",
-            "stars": 1497,
+            "stars": 1496,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -459,11 +459,11 @@
             "id": 24494032,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T22:55:06Z",
+            "last_commit": "2026-11-20T12:58:38Z",
             "open_issues": 140,
             "owner": "mysql",
             "repo": "mysql-server",
-            "stars": 12522,
+            "stars": 12523,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -480,11 +480,11 @@
             "id": 19816070,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T14:36:06Z",
-            "open_issues": 613,
+            "last_commit": "2026-11-20T10:32:09Z",
+            "open_issues": 621,
             "owner": "MariaDB",
             "repo": "server",
-            "stars": 8632,
+            "stars": 8637,
             "topics": [
               "amazon-web-services",
               "database",
@@ -521,7 +521,7 @@
             "open_issues": 9,
             "owner": "facebookarchive",
             "repo": "webscalesql-5.6",
-            "stars": 2910,
+            "stars": 2909,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -544,8 +544,8 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:15:16Z",
-            "open_issues": 1139,
+            "last_commit": "2026-11-19T21:36:47Z",
+            "open_issues": 1147,
             "owner": "vitessio",
             "repo": "vitess",
             "stars": 21426,
@@ -576,7 +576,7 @@
             "open_issues": 3,
             "owner": "tumblr",
             "repo": "jetpants",
-            "stars": 1127,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:27.477Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:39:50.383Z",
+    "last_updated": "2026-11-20T16:15:21.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等",
